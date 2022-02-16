@@ -1,0 +1,19 @@
+.blue {
+  background-color: #24425C;
+  color: #FFF2CC;
+  text-align: center;
+}
+
+.grey {
+  background-color: #CCCCCC;
+  padding: 1em;
+}
+
+.record {
+  background-image: url("record.png");
+  background-repeat: repeat;
+}
+
+body {
+  margin: 0;
+}
